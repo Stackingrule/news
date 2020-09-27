@@ -1,0 +1,3 @@
+com\mooc\api\config\Swagger2Config.class
+com\mooc\api\controller\user\HelloControllerApi.class
+com\mooc\my\mapper\MyMapper.class
